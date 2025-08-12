@@ -4,10 +4,9 @@
 
 ### About me 🎸🏍
 
-My name: Brian a little bit weird for someone who born directly in Barcelona, 
-lover of alternative music, guitar player and motorcycles like Harley Davidson or Indian.
+My name: Brian.
 I'm starting to learn code for change my life wish me luck.
-Currently working on events like MWC or Sonar(Mobile World congress), hopefully I can change it soon.🤪
+Currently working on events like MWC or Sonar(Mobile World congress), hopefully I can change it soon.
 
 ### Languages: ES/CAT/ENG
 
