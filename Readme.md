@@ -12,7 +12,7 @@ ES/CAT/ENG
 
 ### Technologies;
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,flask,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,flask,node,bootstrap,git,jest,sqlalchemy)](https://skillicons.dev)
 
 
 [![Brian's Github Trophies](https://github-profile-trophy.vercel.app/?username=Brian-M-S&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/Brian-M-S/readme-components)
