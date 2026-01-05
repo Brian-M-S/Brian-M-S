@@ -1,9 +1,10 @@
-# <center>Welcome to my profesional profile! A junior Full Stack Developer</center>
+# <center>Welcome to my profesional profile! Full Stack Developer</center>
 
 
 ### About me 🎸🏍
 
-Apassionate to create and innovate 
+Apassionate to create and innovate new applications.</br>
+Focused on learning more technologies.
 
 ### Languages: 
 ES/CAT/ENG
