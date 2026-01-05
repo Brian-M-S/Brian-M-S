@@ -8,7 +8,7 @@ Apassionate to create and innovate
 ### Languages: 
 ES/CAT/ENG
 
-### Technologies I know;
+### Technologies I know
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,flask,nodejs,bootstrap,git,jest,sqlalchemy)](https://skillicons.dev)
 
@@ -18,7 +18,7 @@ ES/CAT/ENG
 ## Future achivements
 Being a fullstack worker in some company and improving myself to be better, and give solutions to solve any problem.
 
-### Contact:
+### Contact
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</br>
 brianmarinsossa131294@gmail.com</br>
