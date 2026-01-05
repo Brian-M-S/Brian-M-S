@@ -20,9 +20,7 @@ Being a fullstack worker in some company and improving myself to be better, and 
 
 Contact:
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-Mail:</br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</br>
 brianmarinsossa131294@gmail.com</br>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-Linkedin:</br>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</br>
 https://www.linkedin.com/in/brian-marin-sossa-47608a2ab/
