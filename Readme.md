@@ -14,7 +14,7 @@ ES/CAT/ENG
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,flask,node)](https://skillicons.dev)
 
- <img src="https://github-profile-trophy.vercel.app/?username=Bl00dyXIII&theme=onedark&column=3&margin-w=15&margin-h=15" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Brian-M-S&theme=onedark&column=3&margin-w=15&margin-h=15" />
 
  [![Brian's Github Trophies](https://github-profile-trophy.vercel.app/?username=Brian-M-S&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/Brian-M-S/readme-components)
  
